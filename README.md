@@ -11,7 +11,7 @@
 ## Tuan 02
 
 ## Tuan 03
-Em da nop!
+Em da nop.
 
 ## Tuan 04
 
