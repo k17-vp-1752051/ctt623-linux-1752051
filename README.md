@@ -20,6 +20,7 @@ Em da nop.
 ## Tuan 06
 
 ## Tuan 07
+Da nop.
 
 ## Tuan 08
 
