@@ -7,11 +7,13 @@
 * Lop: 17VP
 
 ## Tuan 01
+Da nop.
 
 ## Tuan 02
+Da nop.
 
 ## Tuan 03
-Em da nop.
+Da nop.
 
 ## Tuan 04
 
