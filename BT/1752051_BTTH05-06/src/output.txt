@@ -1,0 +1,11 @@
+Do dai: 2
+124
+1234
+So chan: 
+124
+1234
+So le: 
+So lon nhat: 1234
+So nho nhat: 124
+Nhap vi tri can tim: 
+Nhap loi

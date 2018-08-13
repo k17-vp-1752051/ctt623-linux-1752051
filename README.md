@@ -19,14 +19,13 @@ Da nop.
 Da nop.
 
 ## Tuan 05
+Da nop.
 
 ## Tuan 06
+Da nop.
 
 ## Tuan 07
 Da nop.
 
 ## Tuan 08
-
-## Tuan 09
-
-## Tuan 10
+Da nop.
